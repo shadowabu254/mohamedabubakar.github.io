@@ -1,0 +1,10 @@
+{
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": "build\\.py$",
+        "cmd": "python \"${workspaceFolder}/build.py\""
+      }
+    ]
+  }
+}
